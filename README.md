@@ -55,4 +55,4 @@ The 5 commonly used HTTP verbs and their purposes are:
 1. **GET**: Retrieves a representation of the specified resource.
 2. **POST**: Submits data to be processed to the specified resource.
 3. **PUT**: Updates the specified resource with the provided data.
-4. **PATCH**: Partially
+4. **PATCH**: Partially updates the resource
