@@ -35,7 +35,6 @@ HTTP stands for Hypertext Transfer Protocol. It is used for the transmission of 
 HTTPS (HTTP Secure) is the secure version of HTTP. It adds encryption and authentication mechanisms to the communication protocol, providing a secure and encrypted connection between clients and servers.
 
 ### HTTP Request Structure
-![HTTP Request Structure Diagram](http_request_structure_diagram.png)
 
 An HTTP request consists of:
 - **Method/Verb**: Specifies the type of action to be performed on the resource (e.g., GET, POST, PUT, PATCH, DELETE).
@@ -44,7 +43,6 @@ An HTTP request consists of:
 - **Body**: Optional data sent along with the request, typically used for POST or PUT requests.
 
 ### HTTP Response Structure
-![HTTP Response Structure Diagram](http_response_structure_diagram.png)
 
 An HTTP response consists of:
 - **Status Code**: Indicates the outcome of the request (e.g., 200 OK, 404 Not Found, 500 Internal Server Error).
